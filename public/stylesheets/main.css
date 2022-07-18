@@ -1,0 +1,52 @@
+.log-reg {
+    margin-right: 15px;
+}
+
+.reg-form-centr {
+    width: 35%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.post-upload {
+    width: 35%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.edit-post {
+    width: 35%;
+    margin: 0 auto;
+    text-align: center; 
+}
+
+.all-posts {
+    width: 35%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.post {
+    border: solid;
+    margin: 10px
+}
+
+img {
+    width: 30%;
+}
+
+.img-heart {
+    width: 25px;
+}
+
+.like {
+    margin-left: 150px;
+    width: 50px;
+    background-color: white;
+}
+
+.all-posts-home {
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+}
